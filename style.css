@@ -90,7 +90,7 @@ h1 {
 }
 
 .mid1 {
-  height: 400px;
+  min-height: 400px;
 }
 
 .info {
